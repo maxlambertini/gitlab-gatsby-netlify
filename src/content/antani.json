@@ -1,0 +1,8 @@
+{
+    "title" : "Dati farlokki",
+    "data" : [
+        {"nome" : "Superman", "superpotere" : "tanti"},
+        {"nome" : "Batman", "superpotere" : "uomo pipistrello"},
+        {"nome" : "Uomo Ragno", "superpotere" : "vola"}
+    ]
+}
